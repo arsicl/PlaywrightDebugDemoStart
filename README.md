@@ -38,15 +38,12 @@
 </li>
 
 
-<li> Trace (can be generated when from is filled)
+<li> Trace (can be generated when form is filled)
 
 
 <code>npx playwright test --headed  --trace on --reporter=html</code>
 
 <code> npx playwright show-trace </code>
-
-
-
 
  </ol>
  
@@ -56,10 +53,4 @@
 <li>Handle prompt window</li>
 <li> Change locators using devtools in debugger mode</li>
 <li> HTML report, trace <l/i>
-
 </ul>
- 
-
-
-
-
